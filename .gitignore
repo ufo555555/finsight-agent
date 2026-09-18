@@ -1,6 +1,9 @@
 # Local brainstorming artifacts
 .superpowers/
 
+# Project-local Git worktrees
+.worktrees/
+
 # Secrets and local environments
 .env
 .env.*
