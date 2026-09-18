@@ -2,7 +2,7 @@
 
 日期：2026-09-18
 
-状态：待用户审阅
+状态：已批准
 
 学习基础：Python 基础语法；暂不会 JavaScript/TypeScript
 
